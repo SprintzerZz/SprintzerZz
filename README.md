@@ -21,4 +21,9 @@ Here are some ideas to get you started:
 ## 📝 我的最新 CSDN 博客
 
 <!-- BLOG-POST-LIST:START -->
+- [2002 - Can‘t connect to server on ‘localhost‘ &lpar;10061&rpar;](https://blog.csdn.net/m0_51350326/article/details/162600493)
+- [【MySQL】IP地址如何在数据库里存储？](https://blog.csdn.net/m0_51350326/article/details/162523572)
+- [【Java SE】异常链](https://blog.csdn.net/m0_51350326/article/details/162374337)
+- [【Spring】事务管理](https://blog.csdn.net/m0_51350326/article/details/162315938)
+- [【CC】Learn Claude Code s01-s04学习笔记](https://blog.csdn.net/m0_51350326/article/details/162307744)
 <!-- BLOG-POST-LIST:END -->
