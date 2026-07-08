@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Static Badge](https://img.shields.io/badge/:badgeContent?label=blog&link=https%3A%2F%2Fblog.csdn.net%2Fm0_51350326%3Fspm%3D1000.2115.3001.5343)
+[![CSDN博客](https://img.shields.io/badge/CSDN-262篇博客-orange?style=for-the-badge&logo=CSDN&logoColor=white)](https://blog.csdn.net/m0_51350326?spm=1000.2115.3001.5343)
 
 
