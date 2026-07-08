@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Static Badge](https://img.shields.io/badge/:badgeContent?label=blog&link=https%3A%2F%2Fblog.csdn.net%2Fm0_51350326%3Fspm%3D1000.2115.3001.5343)
+
+
