@@ -20,7 +20,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           # ⚠️ 这里 CSDN RSS 地址
-          feed_list: "https://blog.csdn.net/m0_51350326/rss/list"
+          feed_list: "https://rsshub.app/csdn/user/m0_51350326"
           max_post_count: 5 # 显示最新 5 篇
           # 可选：自定义显示格式，去掉下面一行的 # 即可启用
           # template: "- 🚀 [$title]($url)"
