@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![CSDN](https://img.shields.io/badge/-CSDN-orange?logo=CSDN&logoColor=white)](https://blog.csdn.net/m0_51350326?spm=1000.2115.3001.5343)
+[![CSDN](https://img.shields.io/badge/-CSDN-orange?logo=Blog&logoColor=white)](https://blog.csdn.net/m0_51350326?spm=1000.2115.3001.5343)
 
 
