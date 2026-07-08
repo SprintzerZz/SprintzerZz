@@ -1,0 +1,26 @@
+name: 更新最新 CSDN 博客文章
+
+on:
+  schedule:
+    # 每天 UTC 时间 0 点（北京时间早上 8 点）自动运行
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许你手动点击运行
+
+permissions:
+  contents: write # 赋予写入权限，才能修改 README
+
+jobs:
+  update-readme-with-blog:
+    name: 拉取 CSDN RSS 并更新 README
+    runs-on: ubuntu-latest
+    steps:
+      - name: 拉取代码
+        uses: actions/checkout@v4
+      - name: 拉取博客文章
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # ⚠️ 这里 CSDN RSS 地址
+          feed_list: "https://blog.csdn.net/m0_51350326/rss/list"
+          max_post_count: 5 # 显示最新 5 篇
+          # 可选：自定义显示格式，去掉下面一行的 # 即可启用
+          # template: "- 🚀 [$title]($url)"
