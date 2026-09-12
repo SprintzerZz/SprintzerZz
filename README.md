@@ -17,7 +17,10 @@
     <img src="https://img.shields.io/github/downloads/SprintzerZz/explorer-icon-studio/total?label=Downloads&style=flat&logo=github" />
   </a>
 </p>
-
+  <!-- Blog -->
+  <a href="[YOUR_BLOG_URL](https://blog.csdn.net/m0_51350326)">
+    <img src="https://img.shields.io/badge/Blog-My%20Blog-FF5722?style=flat&logo=blogger&logoColor=white" />
+  </a>
 
 
 ## 🛠 Tech Stack
@@ -29,16 +32,6 @@
 
 
 
-
-## 📚 Blog
-
-I write notes about **Java backend development, distributed systems, caching, middleware and AI engineering**.
-
-<p align="center">
-  <a href="https://blog.csdn.net/m0_51350326">
-    <img src="https://img.shields.io/badge/CSDN-阅读技术文章-FC5531?style=for-the-badge&logo=C&logoColor=white" />
-  </a>
-</p>
 
 ## 🚀 Open Source Projects
 
