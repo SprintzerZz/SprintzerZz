@@ -18,7 +18,7 @@
   </a>
 </p>
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -28,7 +28,7 @@
 </p>
 
 
----
+
 
 ## 📚 Blog
 
@@ -40,7 +40,6 @@ I write notes about **Java backend development, distributed systems, caching, mi
   </a>
 </p>
 
----
 ## 🚀 Open Source Projects
 
 
