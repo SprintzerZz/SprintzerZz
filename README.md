@@ -14,7 +14,7 @@
 &nbsp;
   <!-- Release Downloads -->
   <a href="https://github.com/SprintzerZz/explorer-icon-studio/releases">
-     <img src="https://img.shields.io/github/downloads/SprintzerZz/YOUR_REPO/total?label=Downloads&style=flat&logo=github" />
+     <img src="https://img.shields.io/github/downloads/SprintzerZz/explorer-icon-studio/total?label=Downloads&style=flat&logo=github" />
   </a>
   &nbsp;
   <a href="https://blog.csdn.net/m0_51350326">
