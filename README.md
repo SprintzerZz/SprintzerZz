@@ -1,7 +1,7 @@
 # Hi there, I'm SpZyph3r 👋
 
 <p align="center">
-  <b>Java Backend Developer · Distributed Systems · AI Coding / RAG</b>
+  <b>Java Backend Developer / RAG</b>
 </p>
 
 
@@ -26,7 +26,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,mysql,redis,elasticsearch,rabbitmq,kafka,docker,kubernetes,nginx" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,elasticsearch,rabbitmq,docker,kubernetes,nginx" />
 </p>
 
 
