@@ -1,7 +1,7 @@
 # Hi there, I'm SpZyph3r 👋
 
 <p align="center">
-  <b>Java Backend Developer / RAG</b>
+  <b>Java Backend Developer </b>
 </p>
 
 
