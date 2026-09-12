@@ -13,7 +13,7 @@
   </a>
 
   <!-- Release Downloads -->
-  <a href="https://github.com/SprintzerZz/YOUR_REPO/releases">
+  <a href="https://github.com/SprintzerZz/explorer-icon-studio/releases">
     <img src="https://img.shields.io/github/downloads/SprintzerZz/explorer-icon-studio/total?label=Downloads&style=flat&logo=github" />
   </a>
 </p>
