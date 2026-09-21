@@ -33,11 +33,9 @@
 
 
 ## 🚀 Open Source Projects
--   <a href="[https://blog.csdn.net/m0_51350326](https://github.com/SprintzerZz/explorer-icon-studio)">
-    explorer-icon-studio
-  </a>
-    <!-- Release Downloads -->
+
+- <a href="https://github.com/SprintzerZz/explorer-icon-studio">explorer-icon-studio</a>&nbsp;
   <a href="https://github.com/SprintzerZz/explorer-icon-studio/releases">
-     <img src="https://img.shields.io/github/downloads/SprintzerZz/explorer-icon-studio/total?label=Downloads&style=flat&logo=github" />
+    <img src="https://img.shields.io/github/downloads/SprintzerZz/explorer-icon-studio/total?label=Downloads&style=flat&logo=github" />
   </a>
 
