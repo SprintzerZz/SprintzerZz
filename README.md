@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://blog.csdn.net/m0_51350326">
-    <img src="https://img.shields.io/badge/Blog-My%20Blog-FC5531?style=flat&logo=blogger&logoColor=white" alt="Blog" />
+    <img src="https://img.shields.io/badge/Blog-SpZyph3r-FC5531?style=flat&logo=blogger&logoColor=white" alt="Blog" />
   </a>
 </p>
 
