@@ -41,6 +41,10 @@
 
 ### 📦 Personal Projects
 
+- <a href="https://github.com/SprintzerZz/wechat-schedule-bell">微信日程铃</a>&nbsp;
+  <img src="https://skillicons.dev/icons?i=cloudflare,js,html,css" height="20" alt="Cloudflare, JavaScript, HTML, CSS" />
+  <br />运行在 Cloudflare Workers 的日程提醒工具，支持周期安排、每日汇总及企业微信群机器人、Server酱和 PushDeer 推送。
+
 - <a href="https://github.com/SprintzerZz/Blog2Anki">Blog2Anki</a>&nbsp;
   <img src="https://skillicons.dev/icons?i=python,streamlit" height="20" alt="Python, Streamlit" />
   <br />将技术博客文章解析为结构化内容，并生成可预览、可编辑、可导出的 Anki 卡片。
